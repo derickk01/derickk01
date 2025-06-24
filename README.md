@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sou Derick
 
 <!--
 **derickk01/derickk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
