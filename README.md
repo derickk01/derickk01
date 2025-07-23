@@ -1,16 +1,13 @@
-# Sou Derick
-## Bem-vindo ao meu perfil do Github.
-<!--
-**derickk01/derickk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eduardo Derick
 
-Here are some ideas to get you started:
+``Data Science, Automation, Data Analysis, AI``
 
-- 🔭 Atualmente, trabalho no setor de Business Intelligence
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Ciência de Dados na FATEC. Gosto de matemática, leitura e programação.
+## Stacks
+[![My Skills](https://skillicons.dev/icons?i=bash,github,linux,mongodb,postman,python,sqlite,vim,mysql,git)](https://skillicons.dev)
+
+## Idiomas
+🇧🇷 Portugês nativo
+🇪🇸 Espanhol intermediário a avançado
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglês intermediário
+
