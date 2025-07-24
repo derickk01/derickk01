@@ -1,6 +1,6 @@
 # Eduardo Derick
 
-``Data Science, Automation, Data Analysis, AI``
+``Data Science, Analysis, Engineering. Automation & AI``
 
 Estudante de Ciência de Dados na FATEC. Gosto de matemática, leitura e programação.
 ## Stacks
